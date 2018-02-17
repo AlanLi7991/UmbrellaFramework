@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AppDemo/AppDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Umbrella/Umbrella.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SubAlpha/SubAlpha.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SubBeta/SubBeta.xcodeproj">
+   </FileRef>
+</Workspace>
